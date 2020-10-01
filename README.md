@@ -1,3 +1,5 @@
+## Brute Force Simulator
+
 simple python program that simulate how brute-force work
 in brute force attack all combination of alphabets digits and special symboles is tried untill combination matches the password
 chances of getting a success depends on length of password
